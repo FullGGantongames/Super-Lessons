@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 🎓 Super Lessons / Супер уроки
@@ -19,27 +21,13 @@
 
 > *Tip: Drag and drop your screenshots here in the GitHub editor to replace these placeholders!*
 
-| Light & Dark Themes | Chats & Classes |
-| :---: | :---: |
-| ![Main Window](https://placeholder.com) | ![Chats](https://placeholder.com) |
+
+
+| !<img width="1024" height="621" alt="Супер уроки 1 4 —  Учитель  Антон (@FullGGantongames) 24 11 2026 17_20_40" src="https://github.com/user-attachments/assets/8f06abbe-948c-4c0c-8102-ebda6d9de772" /> | !
 
 ---
 
-## 🌐 How to Change Language / Как сменить язык
 
-If you accidentally selected **Russian** at startup and want to switch back to **English** (or vice versa), follow these steps using the top menu bar:
-
-1. Look at the top-left menu bar and click the **second tab** from the left: **`Темы и Вид`** *(Themes & View)*.
-2. Hover over the very bottom item in the dropdown list: **`Язык / Language`**.
-3. Click **`English (EN)`** (or **`Русский (RU)`**).
-4. The interface will reload immediately in your chosen language!
-
-**Путь в меню (если интерфейс на русском):**
-> **`Темы и Вид`** *(2-я вкладка сверху)* ➔ **`Язык / Language`** *(в самом низу)* ➔ **`English (EN)`**
-
-*(Alternatively, you can delete the `config.properties` file in the app folder to bring back the startup language selection window).*
-
----
 
 ## ✨ Key Features / Основные возможности
 
